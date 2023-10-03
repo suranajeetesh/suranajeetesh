@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="noreferrer"></a>
-  <img src="https://raw.githubusercontent.com/jeeteshsurana/jeeteshsurana/main/images/mobile_app_developer.png" alt="my banner"></a>
+  <img src="https://raw.githubusercontent.com/suranajeetesh/suranajeetesh/main/images/Jeetesh surana.png" alt="my banner"></a>
 </p>
 
 
