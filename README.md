@@ -9,21 +9,19 @@
   Hi Hard work people there, I'm <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="noreferrer">Jeetesh surana</a> 👋, Welcome to my GitHub 👨‍💻 <img align="center" src="https://raw.githubusercontent.com/jeeteshsurana/MyPublicData/main/profile/rounded_corner.png" alt="my profile" height="16" width="16"> 
 </h3>
 <h2 align="center">
-I'm a Project manager, Team Leader, Senior Android App Developer 💻, and Designer 🎨!
+I'm a Senior Android App Developer 💻, and Designer 🎨!
 </h2> 
 
 
-<!--
 **suranajeetesh/suranajeetesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Parallel Quintillion Coders
+- 🌱 I’m currently learning Compose KMM
+- 📫 How to reach me: +91 9057516113 (Whats app)
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on compose KMM projects
+- 🤔 I’m looking for help with KMM
+- 💬 Ask me about for development android/ios application
+- ⚡ Fun fact: I have full time freelancer
