@@ -4,10 +4,11 @@
 </p>
 
 
-
+<!--
 <h3 align="center">
   Hi Hard work people there, I'm <a href="http://bitly.com/jeeteshportfolio" target="_blank" rel="noreferrer">Jeetesh surana</a> 👋, Welcome to my GitHub 👨‍💻 <img align="center" src="https://raw.githubusercontent.com/jeeteshsurana/MyPublicData/main/profile/rounded_corner.png" alt="my profile" height="16" width="16"> 
 </h3>
+-->
 <h2 align="center">
 I'm a Senior Android App Developer 💻, and Designer 🎨!
 </h2> 
