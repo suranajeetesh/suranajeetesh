@@ -12,7 +12,7 @@
 I'm a Senior Android App Developer 💻, and Designer 🎨!
 </h2> 
 
-
+<!--
 **suranajeetesh/suranajeetesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with KMM
 - 💬 Ask me about for development android/ios application
 - ⚡ Fun fact: I have full time freelancer
+-->
